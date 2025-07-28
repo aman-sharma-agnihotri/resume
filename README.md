@@ -1,2 +1,2 @@
 # resume
-This is Resume pdf document and it contains details of my contact information, skills, experience, education, projects, etc.
+This is Resume pdf document, it contains my information like details of my skills, experience, education, projects, contact details and other relevant details.
